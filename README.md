@@ -1,6 +1,6 @@
 # University of Richmond Data Analytics & Visualization Boot Camp Final Project: Machine Learning
 
-Project Link: [Loan Analysis](https://kblood86.github.io/final_project/)
+Project Link: [Loan Analysis](https://kblood86.github.io/LoanAnalysis/)
 
 <img src="LendingClubLogo.png" >
 
